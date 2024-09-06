@@ -1,7 +1,3 @@
-# Simple Calculator Android Application
-
-# Author
-Mahak Aggarwal
 
 # Features
 The application provides basic calculation functionality – addition, subtraction, multiplication, division, modulus, power, and square root in addition to providing buttons for numbers, decimal point, ‘Clear’, and backspace.
@@ -12,24 +8,7 @@ A separate java class is used for the calculation implementation. SavedInstanceS
 * The root button works even if there is no first number provided
 * Possible division errors
 
-When the backspace button is long pressed, all the contents are cleared. Methods are created and reused to reduce code duplication. Compatibility classes are used to provide backwards compatibility for older android versions.
-
-![App Logo](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/icon_cal.png)
-
 This icon represents the application. Made using Font Awesome Icons and MDBootstrap. It follows material design guidelines.
-
-# Android Specifications
-Android Studio Version: 3.1.4
-Gradle Version: 4.6
-Minimum Android SDK: 19
-Target Android SDK: 28
-
-# Screenshots
-![Main UI](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Main%20UI.png)
-
-![Calculation being performed 1](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Operation%201.png)
-![Calculation being performed 2](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Result%201.png)
-
 
 # Usage
 The usage of the application is self-explanatory. However, the following steps can be followed –
